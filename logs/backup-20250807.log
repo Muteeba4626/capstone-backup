@@ -1,0 +1,8 @@
+--------------------------------------------------
+[20250807 06:54:49] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250807/backup_dbdata_20250807.tar.gz
+
+[20250807 06:54:49] Archiving /dbdata...
+[20250807 06:54:49] Backup completed.
